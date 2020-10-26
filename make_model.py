@@ -3,7 +3,7 @@
 """
 Created on Sun Apr 19 14:44:26 2020
 
-@author: ejg
+@author: jg
 """
 
 import markovify
